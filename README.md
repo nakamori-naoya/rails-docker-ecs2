@@ -3,6 +3,13 @@ The Exhibition of Portfolios ver 2.0は`React,Firebase,Redux`を使い作成し�
 
 ## デモ
 
+
+
+
+
+
+
+
 ## トップページ  
 ![Videotogif (1)](https://user-images.githubusercontent.com/73022482/126039288-59c83129-cb33-4576-ab0f-693de4bcbbd9.gif)  
 
